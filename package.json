@@ -12,7 +12,13 @@
   },
   "keywords": [
     "rut",
-    "validator"
+    "validator",
+    "chilean-rut",
+    "rut",
+    "chile-rut",
+    "chile",
+    "node",
+    "node-validator"
   ],
   "author": "Alejandro Exequiel Hernández Lara",
   "license": "MIT",
