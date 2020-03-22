@@ -1,14 +1,14 @@
 {
-  "name": "node-chilean-rut-validator",
+  "name": "simple-rut-validator",
   "version": "1.0.0",
-  "description": "Node chilean rut validator",
+  "description": "simple-rut-validator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alejandrehl/rut-validator.git"
+    "url": "git+https://github.com/Alejandrehl/simple-rut-validator.git"
   },
   "keywords": [
     "rut",
@@ -23,7 +23,7 @@
   "author": "Alejandro Exequiel Hernández Lara",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Alejandrehl/rut-validator/issues"
+    "url": "https://github.com/Alejandrehl/simple-rut-validator/issues"
   },
-  "homepage": "https://github.com/Alejandrehl/rut-validator#readme"
+  "homepage": "https://github.com/Alejandrehl/simple-rut-validator#readme"
 }
