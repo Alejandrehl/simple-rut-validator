@@ -1,7 +1,7 @@
 {
-  "name": "rut-validator",
+  "name": "node-chilean-rut-validator",
   "version": "1.0.0",
-  "description": "Chilean rut validator",
+  "description": "Node chilean rut validator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
