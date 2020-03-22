@@ -1,0 +1,23 @@
+{
+  "name": "rut-validator",
+  "version": "1.0.0",
+  "description": "Chilean rut validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandrehl/rut-validator.git"
+  },
+  "keywords": [
+    "rut",
+    "validator"
+  ],
+  "author": "Alejandro Exequiel Hernández Lara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alejandrehl/rut-validator/issues"
+  },
+  "homepage": "https://github.com/Alejandrehl/rut-validator#readme"
+}
