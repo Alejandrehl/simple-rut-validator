@@ -4,3 +4,9 @@
 
 1. `npm i simple-rut-validator`
 2. `import { checkRut } from "simple-rut-validator"`
+
+### Example
+
+```javascript
+asdasdasdkgsahdgsadjhas;
+```
