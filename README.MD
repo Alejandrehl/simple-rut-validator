@@ -1,11 +1,27 @@
 # Simple Rut Validator
 
+1. Return true or false
+2. Corret Format: NNNNNNNN-V
+
 ### How to use
 
 1. `npm i simple-rut-validator`
 2. `import { checkRut } from "simple-rut-validator"`
 
-### Example
+### Basic Example
+
+```javascript
+const rut = "12098123-k";
+const isValid = checkRut(rut); // will return true
+
+const rut = "12.098.123-k";
+const isValid = checkRut(rut); // will return false
+
+const rut = "12098123k";
+const isValid = checkRut(rut); // will return false
+```
+
+### React Example
 
 ```javascript
 import React, { useState, useEffect } from "react";
